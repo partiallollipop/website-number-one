@@ -1,0 +1,11 @@
+.footer {
+  padding-inline: 15%;
+  padding-block: 15px;
+  background-image: linear-gradient(#2E2D31, #000000, #000000, #000000, #000000, #000000, #000000);
+  color: azure;
+}
+.footer a {
+  font-size: 20px;
+  font-family: Gadugi, Arial, Helvetica, sans-serif;
+  color: azure;
+}/*# sourceMappingURL=footer.css.map */

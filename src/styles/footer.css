@@ -3,9 +3,44 @@
   padding-block: 15px;
   background-image: linear-gradient(#2E2D31, #000000, #000000, #000000, #000000, #000000, #000000);
   color: azure;
+  height: 30vh;
+  width: 100%;
 }
 .footer a {
   font-size: 20px;
   font-family: Gadugi, Arial, Helvetica, sans-serif;
   color: azure;
+}
+.footer p {
+  font-family: Gadugi, Arial, Helvetica, sans-serif;
+  font-size: x-small;
+}
+
+.footer-title h2 {
+  font-size: small;
+  padding-left: 10px;
+}
+
+.footer-wiggles {
+  position: absolute;
+  left: 0;
+  background-color: #000000;
+  overflow: hidden;
+  width: 100%;
+}
+
+.footer-links {
+  padding: 30px;
+  height: 75%;
+}
+.footer-links h3 {
+  font-size: medium;
+  padding-bottom: 5px;
+}
+.footer-links p {
+  font-size: small;
+}
+
+.footer-logo {
+  height: 75%;
 }/*# sourceMappingURL=footer.css.map */

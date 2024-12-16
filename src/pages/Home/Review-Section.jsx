@@ -30,8 +30,6 @@ export default function ReviewSection() {
                     return (<ReviewCardLeftText text={item.text} image={item.image} />)
                 })
             }
-
-
         </div>
     )
 }
